@@ -8,4 +8,4 @@ Este programa teve sua construção realizada durante um momento de estudos sobr
 Por meio da biblioteca scrapy, é possível a captação de dados desejados de um site html. De início é criado uma função que será responsável pela varredura de dados por todo o site. Por meio do laço For, é criado 4 variáveis, que irão guardar os dados de cada produto, sendo eles: Nome do produto, preço promocional do produto, preço antigo do produto e o link do anúncio. Desta forma, todos os dados coletados serão armazenados em um dicionário.
 
 # Resultado da Api
-O resultado pode ser conferido no link: https://github.com/Otavio1505/preco_produto-api.webscrapping/blob/main/produtosm1.json
+Link do Dicionário resultante da ação do Web Scrapping: https://github.com/Otavio1505/preco_produto-api.webscrapping/blob/main/produtosm1.json
